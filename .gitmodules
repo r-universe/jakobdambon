@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "varycoef"]
+	path = varycoef
+	url = https://github.com/jakobdambon/varycoef
+	shallow = true
+	registered = true
